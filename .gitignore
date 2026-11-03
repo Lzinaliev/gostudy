@@ -1,0 +1,8 @@
+node_modules/
+out/
+release/
+dist-web/
+.env
+*.log
+worker/node_modules/
+worker/dist/
